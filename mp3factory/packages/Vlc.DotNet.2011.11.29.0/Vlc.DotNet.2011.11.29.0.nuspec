@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Vlc.DotNet</id>
+    <version>2011.11.29.0</version>
+    <title>Vlc.DotNet</title>
+    <authors>Zebobo5</authors>
+    <owners>Zebobo5</owners>
+    <licenseUrl>http://vlcdotnet.codeplex.com/license</licenseUrl>
+    <projectUrl>http://vlcdotnet.codeplex.com/</projectUrl>
+    <iconUrl>http://images1.videolan.org/images/largeVLC.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>The VlcDotNet libraries provide the audio/video control of the VLC Media Player for Windows Forms, WPF, and Silverlight 5. Now you can stream audio and video in C# and VB.NET!</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>vlc media</tags>
+    <references>
+      <reference file="Vlc.DotNet.Core.dll" />
+      <reference file="Vlc.DotNet.Core.Interops.dll" />
+    </references>
+  </metadata>
+</package>

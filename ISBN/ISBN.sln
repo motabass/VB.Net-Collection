@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ISBN", "ISBN\ISBN.vbproj", "{5A5586DF-6F92-4C5E-AB72-E55BA5C9369B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A5586DF-6F92-4C5E-AB72-E55BA5C9369B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5586DF-6F92-4C5E-AB72-E55BA5C9369B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5586DF-6F92-4C5E-AB72-E55BA5C9369B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5586DF-6F92-4C5E-AB72-E55BA5C9369B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

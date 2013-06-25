@@ -1,0 +1,26 @@
+﻿body { 
+    background-color: azure;
+
+}
+
+.menu {
+    border: dotted 1px;
+    float: left;
+    width:9%;
+}
+
+.content {
+     border: dotted 1px;
+    float:right; 
+        width:90%;
+        text-align:center;
+}
+
+.formular {
+    width:50%;
+    margin-left:25%;
+} 
+h2 {
+    font-family: Verdana;
+    font-size:larger;
+}

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mediaplayer", "Mediaplayer\Mediaplayer.vbproj", "{9D4239E5-C704-42F2-84E4-C64439B1BD23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		relmojo|Any CPU = relmojo|Any CPU
+		relmojo|x86 = relmojo|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.Debug|x86.ActiveCfg = Debug|x86
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.Debug|x86.Build.0 = Debug|x86
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.Release|x86.ActiveCfg = Release|x86
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.Release|x86.Build.0 = Release|x86
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.relmojo|Any CPU.ActiveCfg = relmojo|Any CPU
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.relmojo|Any CPU.Build.0 = relmojo|Any CPU
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.relmojo|x86.ActiveCfg = relmojo|x86
+		{9D4239E5-C704-42F2-84E4-C64439B1BD23}.relmojo|x86.Build.0 = relmojo|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
